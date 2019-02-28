@@ -19,4 +19,3 @@ You can examine the code in `test_script.py` by double clicking on it in the pan
 **Q's:**
 * What's different between these two outputs?
 * What is happening to cause this difference?
-* Try changing the values in the script. What happens if `a = 5.0`?
